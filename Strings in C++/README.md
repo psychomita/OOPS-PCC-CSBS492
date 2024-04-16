@@ -1,4 +1,4 @@
-# Problem Statement
+# Problem Statements
 
 1. WAP in C++ to implement various string operations.
 
